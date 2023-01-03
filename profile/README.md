@@ -1,5 +1,6 @@
-
 ## Welcome to 01 Edu! 👋
+
+![image](https://user-images.githubusercontent.com/14015057/210378413-b2afecd9-0581-4734-a539-330480bacc08.png)
 
 > ### 🪄 A new redesigned and open learning platform to broadcast the most advanced collective intelligence educational system
 
