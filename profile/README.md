@@ -1,4 +1,5 @@
 ## Welcome to 01 Edu! 👋!
+
 ![01-edu-system-blue](https://user-images.githubusercontent.com/14015057/211164787-102964e0-bba6-4765-b84a-60294abb45db.png)
 
 > ### 🪄 A new redesigned and open learning platform to broadcast the most advanced collective intelligence educational system
@@ -14,6 +15,243 @@ Thank you for choosing 01 Edu and we look forward to helping you achieve your ed
 ### ✨ Want to contribute to our educational platform? Check out our [Public](https://github.com/01-edu/public) repository for ways to get involved.
 
 Our courses have been carefully developed to provide high-quality projects for our learners. We welcome contributions from our community and encourage you to create a pull request in the [content-update](https://github.com/01-edu/public/tree/content-update) branch. Please note that our approach may include some voluntary ambiguity in subject matter to encourage critical thinking and problem-solving. Before submitting new issues, we ask that you consider this approach and the potential for a lack of precision in certain subjects.
+
+### 🌍 Who has been using our platform?
+
+Our company has successfully transformed learning centers and educational institutions in various locations globally, including Bahrain, Estonia, France, the Ivory Coast, Israel, Kazakhstan, Senegal, the United Kingdom, and the United States.
+
+```topojson
+{
+  "type": "Topology",
+  "objects": {
+    "locations": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "properties": {
+            "Academie One": "Almaty, Kazakhstan 🇰🇿"
+          },
+          "coordinates": [
+            76.94,
+            43.25
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "alem": "Nur-Sultan, Kazakhstan 🇰🇿"
+          },
+          "coordinates": [
+            71.47,
+            51.13
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "grit:lab": "Åland Islands 🇦🇽"
+          },
+          "coordinates": [
+            20.5,
+            60.1
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "kood/Jõhvi": "Jõhvi, Estonia 🇪🇪"
+          },
+          "coordinates": [
+            27.4,
+            59.4
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "DigiFemmes": "Abidjan, Ivory Coast 🇨🇮"
+          },
+          "coordinates": [
+            -4.03,
+            5.33
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Adam, University of Notre Dame": "Jerusalem, Israel 🇮🇱"
+          },
+          "coordinates": [
+            35.22,
+            31.78
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "01 Founders": "London, UK 🇬🇧"
+          },
+          "coordinates": [
+            -0.13,
+            51.51
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Reboot01": "Manama, Bahrain 🇧🇭"
+          },
+          "coordinates": [
+            50.59,
+            26.23
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Zone01 Dakar": "Dakar, Senegal 🇸🇳"
+          },
+          "coordinates": [
+            -17.47,
+            14.7
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "YNOV": "Aix-en-Provence, France 🇫🇷"
+          },
+          "coordinates": [
+            5.45,
+            43.53
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "YNOV": "Bordeaux, France 🇫🇷"
+          },
+          "coordinates": [
+            -0.6,
+            44.85
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "YNOV": "Lille, France 🇫🇷"
+          },
+          "coordinates": [
+            3.07,
+            50.63
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "YNOV": "Lyon, France 🇫🇷"
+          },
+          "coordinates": [
+            4.83,
+            45.75
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "YNOV": "Montpellier, France 🇫🇷"
+          },
+          "coordinates": [
+            3.87,
+            43.61
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "YNOV": "Nantes, France 🇫🇷"
+          },
+          "coordinates": [
+            -1.55,
+            47.22
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "YNOV": "Paris, France 🇫🇷"
+          },
+          "coordinates": [
+            2.35,
+            48.85
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "YNOV": "Rennes, France 🇫🇷"
+          },
+          "coordinates": [
+            -1.68,
+            48.11
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "YNOV": "Sophia, France 🇫🇷"
+          },
+          "coordinates": [
+            6.73,
+            43.61
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "YNOV": "Toulouse, France 🇫🇷"
+          },
+          "coordinates": [
+            1.45,
+            43.6
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Zone01 Rouen": "Normandy, France 🇫🇷"
+          },
+          "coordinates": [
+            0.12,
+            49.29
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Jefferson Parish Schools": "New Orleans, USA 🇺🇸"
+          },
+          "coordinates": [
+            -90.08,
+            29.97
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "NØ SCHOOL": "Paris, France 🇫🇷"
+          },
+          "coordinates": [
+            2.35,
+            48.85
+          ]
+        }
+      ]
+    }
+  }
+}
+```
 
 ---
 
