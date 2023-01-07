@@ -14,11 +14,11 @@ Thank you for choosing 01 Edu and we look forward to helping you achieve your ed
 
 ### ✨ Want to contribute to our educational platform? Check out our [Public](https://github.com/01-edu/public) repository for ways to get involved.
 
-Our courses have been carefully developed to provide high-quality projects for our learners. We welcome contributions from our community and encourage you to create a pull request in the [content-update](https://github.com/01-edu/public/tree/content-update) branch. Please note that our approach may include some voluntary ambiguity in subject matter to encourage critical thinking and problem-solving. Before submitting new issues, we ask that you consider this approach and the potential for a lack of precision in certain subjects.
+Our courses have been carefully developed to provide high-quality projects for our learners. We welcome contributions from our community and encourage you to create a pull request in the [content-update](https://github.com/01-edu/public/tree/content-update) branch.
 
 ### 🌍 Who has been using our platform?
 
-Our company has successfully transformed learning centers and educational institutions in various locations globally, including Bahrain, Estonia, France, the Ivory Coast, Israel, Kazakhstan, Senegal, the United Kingdom, and the United States.
+We have successfully transformed learning centres and educational institutions in various locations worldwide, including Bahrain, Estonia, France, the Ivory Coast, Israel, Kazakhstan, Senegal, the United Kingdom, and the United States.
 
 ```topojson
 {
