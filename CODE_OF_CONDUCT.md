@@ -61,7 +61,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community team members responsible for enforcement at
-conduct@01talent.com.
+`conduct[@]01talent.com`.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All the members of community team are obligated to respect the privacy and security of the
