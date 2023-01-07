@@ -17,3 +17,5 @@ Thank you for choosing 01 Edu and we look forward to helping you achieve your ed
 Our courses have been carefully developed to provide high-quality projects for our learners. We welcome contributions from our community and encourage you to create a pull request in the [content-update](https://github.com/01-edu/public/tree/content-update) branch. Please note that our approach may include some voluntary ambiguity in subject matter to encourage critical thinking and problem-solving. Before submitting new issues, we ask that you consider this approach and the potential for a lack of precision in certain subjects.
 
 ---
+
+<sub>All of our projects and GitHub repositories adopt the 01 Edu's [Code of Conduct](https://github.com/01-edu/.github/blob/master/CODE_OF_CONDUCT.md). For more information please refer our [community health files](https://github.com/01-edu/.github).</sub>
