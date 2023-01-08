@@ -6,7 +6,7 @@
 
 ### Solution Overview
 
-> Provide an overview of the solution implemented in this pull request. This should be a high level overview without getting into technical details. If applicable, include screenshots of UI or use GitHub compliant [`mermaid`](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams) graphs to visually represent the solution.
+> Provide an overview of the solution implemented in this pull request. This should be a high level overview without getting into technical details. If applicable, include screenshots of UI or use GitHub compliant [`mermaid`](https://mermaid.live/) graphs to visually represent the solution.
 
 ### Implementation Details
 
