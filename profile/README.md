@@ -246,6 +246,16 @@ We have successfully transformed learning centres and educational institutions i
             2.35,
             48.85
           ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Seedstars Bengaluru": "Karnataka, India 🇮🇳"
+          },
+          "coordinates": [
+            77.59,
+            12.97
+          ]
         }
       ]
     }
