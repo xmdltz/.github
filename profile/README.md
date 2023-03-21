@@ -33,18 +33,18 @@ We have successfully transformed learning centres and educational institutions i
             "Academie One": "Almaty, Kazakhstan 🇰🇿"
           },
           "coordinates": [
-            76.94,
-            43.25
+            76.9048995,
+            43.2574709
           ]
         },
         {
           "type": "Point",
           "properties": {
-            "alem": "Nur-Sultan, Kazakhstan 🇰🇿"
+            "alem": "Astana, Kazakhstan 🇰🇿"
           },
           "coordinates": [
-            71.47,
-            51.13
+            71.4116875,
+            51.0887689
           ]
         },
         {
@@ -53,8 +53,8 @@ We have successfully transformed learning centres and educational institutions i
             "grit:lab": "Åland Islands 🇦🇽"
           },
           "coordinates": [
-            20.5,
-            60.1
+            19.9335291,
+            60.1285361
           ]
         },
         {
@@ -63,8 +63,8 @@ We have successfully transformed learning centres and educational institutions i
             "kood/Jõhvi": "Jõhvi, Estonia 🇪🇪"
           },
           "coordinates": [
-            27.4,
-            59.4
+            27.4087928,
+            59.352622
           ]
         },
         {
@@ -83,8 +83,8 @@ We have successfully transformed learning centres and educational institutions i
             "Adam, University of Notre Dame": "Jerusalem, Israel 🇮🇱"
           },
           "coordinates": [
-            35.22,
-            31.78
+            35.205455,
+            31.730822
           ]
         },
         {
@@ -93,18 +93,18 @@ We have successfully transformed learning centres and educational institutions i
             "01 Founders": "London, UK 🇬🇧"
           },
           "coordinates": [
-            -0.13,
-            51.51
+            -0.1433833,
+            51.5261305
           ]
         },
         {
           "type": "Point",
           "properties": {
-            "Reboot01": "Manama, Bahrain 🇧🇭"
+            "Reboot01": "Seef, Bahrain 🇧🇭"
           },
           "coordinates": [
-            50.59,
-            26.23
+            50.5280787,
+            26.2361887
           ]
         },
         {
@@ -113,8 +113,8 @@ We have successfully transformed learning centres and educational institutions i
             "Zone01 Dakar": "Dakar, Senegal 🇸🇳"
           },
           "coordinates": [
-            -17.47,
-            14.7
+            -17.4714532,
+            14.7107083
           ]
         },
         {
@@ -123,8 +123,8 @@ We have successfully transformed learning centres and educational institutions i
             "YNOV": "Aix-en-Provence, France 🇫🇷"
           },
           "coordinates": [
-            5.45,
-            43.53
+            5.4305536,
+            43.5235559
           ]
         },
         {
@@ -133,8 +133,8 @@ We have successfully transformed learning centres and educational institutions i
             "YNOV": "Bordeaux, France 🇫🇷"
           },
           "coordinates": [
-            -0.6,
-            44.85
+            -0.5707903,
+            44.8541859
           ]
         },
         {
@@ -143,8 +143,8 @@ We have successfully transformed learning centres and educational institutions i
             "YNOV": "Lille, France 🇫🇷"
           },
           "coordinates": [
-            3.07,
-            50.63
+            3.0560004,
+            50.6350264
           ]
         },
         {
@@ -153,8 +153,8 @@ We have successfully transformed learning centres and educational institutions i
             "YNOV": "Lyon, France 🇫🇷"
           },
           "coordinates": [
-            4.83,
-            45.75
+            4.8354048,
+            45.7456831
           ]
         },
         {
@@ -163,8 +163,8 @@ We have successfully transformed learning centres and educational institutions i
             "YNOV": "Montpellier, France 🇫🇷"
           },
           "coordinates": [
-            3.87,
-            43.61
+            3.9178548,
+            43.5992018
           ]
         },
         {
@@ -173,8 +173,8 @@ We have successfully transformed learning centres and educational institutions i
             "YNOV": "Nantes, France 🇫🇷"
           },
           "coordinates": [
-            -1.55,
-            47.22
+            -1.5415245,
+            47.2054713
           ]
         },
         {
@@ -183,8 +183,8 @@ We have successfully transformed learning centres and educational institutions i
             "YNOV": "Paris, France 🇫🇷"
           },
           "coordinates": [
-            2.35,
-            48.85
+            2.2063269,
+            48.9016494
           ]
         },
         {
@@ -193,8 +193,8 @@ We have successfully transformed learning centres and educational institutions i
             "YNOV": "Rennes, France 🇫🇷"
           },
           "coordinates": [
-            -1.68,
-            48.11
+            -1.6842496,
+            48.1036635
           ]
         },
         {
@@ -203,8 +203,8 @@ We have successfully transformed learning centres and educational institutions i
             "YNOV": "Sophia, France 🇫🇷"
           },
           "coordinates": [
-            6.73,
-            43.61
+            7.0529896,
+            43.6149258
           ]
         },
         {
@@ -213,8 +213,8 @@ We have successfully transformed learning centres and educational institutions i
             "YNOV": "Toulouse, France 🇫🇷"
           },
           "coordinates": [
-            1.45,
-            43.6
+            1.4297025,
+            43.6104177
           ]
         },
         {
@@ -223,8 +223,8 @@ We have successfully transformed learning centres and educational institutions i
             "Zone01 Rouen": "Normandy, France 🇫🇷"
           },
           "coordinates": [
-            0.12,
-            49.29
+            1.1017164,
+            49.4383733
           ]
         },
         {
@@ -245,6 +245,16 @@ We have successfully transformed learning centres and educational institutions i
           "coordinates": [
             2.35,
             48.85
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Atos - Académie du Numérique": "Paris, France 🇫🇷"
+          },
+          "coordinates": [
+            2.230390,
+            48.928329
           ]
         },
         {
