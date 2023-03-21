@@ -1,4 +1,4 @@
-## Welcome to 01 Edu! 👋!
+## Welcome to 01 Edu 👋!
 
 ![01-edu-system-blue](https://user-images.githubusercontent.com/14015057/211164787-102964e0-bba6-4765-b84a-60294abb45db.png)
 
@@ -18,7 +18,7 @@ Our courses have been carefully developed to provide high-quality projects for o
 
 ### 🌍 Who has been using our platform?
 
-We have successfully transformed learning centres and educational institutions in various locations worldwide, including Bahrain, Estonia, France, the Ivory Coast, Israel, India, Kazakhstan, Senegal, the United Kingdom, and the United States.
+We have successfully transformed learning centres and educational institutions in various locations worldwide, including Åland Islands, Bahrain, Estonia, France, the Ivory Coast, Israel, India, Kazakhstan, Senegal, the United Kingdom, and the United States.
 
 ```topojson
 {
