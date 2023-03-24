@@ -18,7 +18,7 @@ Our courses have been carefully developed to provide high-quality projects for o
 
 ### 🌍 Who has been using our platform?
 
-We have successfully transformed learning centres and educational institutions in various locations worldwide, including Åland Islands, Bahrain, Estonia, France, the Ivory Coast, Israel, India, Kazakhstan, Senegal, the United Kingdom, and the United States.
+We have successfully transformed learning centres and educational institutions in various locations worldwide, including Åland Islands, Bahrain, Estonia, France, the Ivory Coast, Israel, India, Kazakhstan, Morroco, Senegal, the United Kingdom, and the United States.
 
 ```topojson
 {
@@ -215,6 +215,16 @@ We have successfully transformed learning centres and educational institutions i
           "coordinates": [
             1.4297025,
             43.6104177
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "YNOV": "Casablanca, Morocco 🇲🇦"
+          },
+          "coordinates": [
+            -7.6246391,
+            33.5799621
           ]
         },
         {
