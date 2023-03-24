@@ -18,7 +18,19 @@ Our courses have been carefully developed to provide high-quality projects for o
 
 ### 🌍 Who has been using our platform?
 
-We have successfully transformed learning centres and educational institutions in various locations worldwide, including Åland Islands, Bahrain, Estonia, France, the Ivory Coast, Israel, India, Kazakhstan, Morroco, Senegal, the United Kingdom, and the United States.
+We have successfully transformed learning centres and educational institutions in various locations worldwide:
+- Åland Islands 🇦🇽
+- Bahrain 🇧🇭
+- Estonia 🇪🇪
+- France 🇫🇷
+- the Ivory Coast 🇨🇮
+- Israel 🇮🇱
+- India 🇮🇳
+- Kazakhstan 🇰🇿
+- Morroco 🇲🇦
+- Senegal 🇸🇳
+- the United Kingdom 🇬🇧
+- the United States of America 🇺🇸
 
 ```topojson
 {
