@@ -27,7 +27,7 @@ We have successfully transformed learning centres and educational institutions i
 - Israel 🇮🇱
 - India 🇮🇳
 - Kazakhstan 🇰🇿
-- Morroco 🇲🇦
+- Morocco 🇲🇦
 - Senegal 🇸🇳
 - the United Kingdom 🇬🇧
 - the United States of America 🇺🇸
