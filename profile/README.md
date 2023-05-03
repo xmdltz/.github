@@ -28,6 +28,7 @@ We have successfully transformed learning centres and educational institutions i
 - Israel 🇮🇱
 - India 🇮🇳
 - Kazakhstan 🇰🇿
+- Kenya 🇰🇪
 - Morocco 🇲🇦
 - Senegal 🇸🇳
 - Türkiye 🇹🇷
@@ -299,6 +300,16 @@ We have successfully transformed learning centres and educational institutions i
           "coordinates": [
             -117.1877584,
             33.5299679
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Zone01 Kisumu": "Kisumu, Kenya 🇰🇪"
+          },
+          "coordinates": [
+            34.7570699,
+            -0.09286
           ]
         },
         {
