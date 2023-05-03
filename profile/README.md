@@ -19,7 +19,8 @@ Our courses have been carefully developed to provide high-quality projects for o
 ### 🌍 Who has been using our platform?
 
 We have successfully transformed learning centres and educational institutions in various locations worldwide:
-- Åland Islands 🇦🇽
+
+- the Åland Islands 🇦🇽
 - Bahrain 🇧🇭
 - Estonia 🇪🇪
 - France 🇫🇷
@@ -29,6 +30,7 @@ We have successfully transformed learning centres and educational institutions i
 - Kazakhstan 🇰🇿
 - Morocco 🇲🇦
 - Senegal 🇸🇳
+- Türkiye 🇹🇷
 - the United Kingdom 🇬🇧
 - the United States of America 🇺🇸
 
@@ -275,8 +277,28 @@ We have successfully transformed learning centres and educational institutions i
             "Atos - Académie du Numérique": "Paris, France 🇫🇷"
           },
           "coordinates": [
-            2.230390,
+            2.23039,
             48.928329
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "UniWorkHub Coding Space": "Kayseri, Türkiye 🇹🇷"
+          },
+          "coordinates": [
+            35.4326119,
+            38.7135284
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Murrieta Valley Unified School District": "California, USA 🇺🇸"
+          },
+          "coordinates": [
+            -117.1877584,
+            33.5299679
           ]
         },
         {
