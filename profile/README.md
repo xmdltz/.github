@@ -24,6 +24,7 @@ We have successfully transformed learning centres and educational institutions i
 - Bahrain 🇧🇭
 - Estonia 🇪🇪
 - France 🇫🇷
+- Greece 🇬🇷
 - the Ivory Coast 🇨🇮
 - Israel 🇮🇱
 - India 🇮🇳
@@ -310,6 +311,16 @@ We have successfully transformed learning centres and educational institutions i
           "coordinates": [
             34.7570699,
             -0.09286
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Zone01 Athens": "Athens, Greece 🇬🇷"
+          },
+          "coordinates": [
+            23.6682993,
+            37.9908164
           ]
         },
         {
