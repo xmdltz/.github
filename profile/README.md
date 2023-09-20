@@ -326,6 +326,16 @@ We have successfully transformed learning centres and educational institutions i
         {
           "type": "Point",
           "properties": {
+            "Zone01 Oujda": "Oujda, Morocco 🇲🇦"
+          },
+          "coordinates": [
+            -1.908533,
+            34.680022
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
             "Seedstars Bengaluru": "Karnataka, India 🇮🇳"
           },
           "coordinates": [
