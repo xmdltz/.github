@@ -3,8 +3,7 @@ name: "\U0001FA84 Feature request"
 about: Suggest an idea for this project
 title: "[FEATURE]: "
 labels: "\U0001FA84 feature"
-assignees: ''
-
+assignees: ""
 ---
 
 **Is your feature request related to a problem? Please describe.**
