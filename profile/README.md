@@ -33,8 +33,9 @@ We have successfully transformed learning centres and educational institutions i
 - Morocco 🇲🇦
 - Senegal 🇸🇳
 - Türkiye 🇹🇷
-- the United Kingdom 🇬🇧
-- the United States of America 🇺🇸
+- The United Arab Emirates 🇦🇪
+- The United Kingdom 🇬🇧
+- The United States of America 🇺🇸
 
 ```topojson
 {
