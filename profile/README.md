@@ -1,4 +1,4 @@
-## Welcome to 01 Edu 👋!
+# Welcome to 01 Edu 👋!
 
 ![01-edu-system-blue](https://user-images.githubusercontent.com/14015057/211164787-102964e0-bba6-4765-b84a-60294abb45db.png)
 
@@ -331,6 +331,16 @@ We have successfully transformed learning centres and educational institutions i
           "coordinates": [
             -1.908533,
             34.680022
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Yaztech": "Abu Dhabi, UAE 🇦🇪"
+          },
+          "coordinates": [
+            54.359668,
+            24.4905985
           ]
         },
         {
