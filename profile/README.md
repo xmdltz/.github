@@ -18,14 +18,14 @@ Our courses have been carefully developed to provide high-quality projects for o
 
 ### 🌍 Who has been using our platform?
 
-We have successfully transformed learning centres and educational institutions in various locations worldwide:
+We have successfully transformed learning centres and educational institutions in various locations around the world:
 
 - the Åland Islands 🇦🇽
 - Bahrain 🇧🇭
 - Estonia 🇪🇪
 - France 🇫🇷
 - Greece 🇬🇷
-- the Ivory Coast 🇨🇮
+- The Ivory Coast 🇨🇮
 - Israel 🇮🇱
 - India 🇮🇳
 - Kazakhstan 🇰🇿
