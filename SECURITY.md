@@ -8,7 +8,11 @@ If you believe you have found a security vulnerability in any 01 Edu owned repos
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
-Instead, please send an email to `security[@]01talent.com`.
+Instead, please send an email to `security [ at ] 01talent.com`. 
+
+### General Guidelines
+- **No Vague Reports**: Submissions such as "I found a vulnerability" without any details will be treated as spam and will not be accepted.
+- **In-Depth Understanding Required**: Reports must reflect a clear understanding of the codebase and provide specific details about the vulnerability, including the affected components and potential impacts.
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
 
@@ -17,10 +21,12 @@ Please include as much of the information listed below as you can to help us bet
 - The location of the affected source code (tag/branch/commit or direct URL)
 - Any special configuration required to reproduce the issue
 - Step-by-step instructions to reproduce the issue
-- Proof-of-concept or exploit code (if possible)
+- Proof-of-concept (mandatory) or exploit code (if possible)
 - Impact of the issue, including how an attacker might exploit the issue
 
 This information will help us triage your report more quickly.
+
+**Non-compliant submissions will be rejected, and repeat violators may be banned!** Our goal is to foster a constructive reporting culture where quality submissions promote not only better security for all users but also value our time spent investigating.
 
 ## Policy
 
