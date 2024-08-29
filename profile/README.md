@@ -20,7 +20,7 @@ Our courses have been carefully developed to provide high-quality projects for o
 
 We have successfully transformed learning centres and educational institutions in various locations around the world:
 
-- the Åland Islands 🇦🇽
+- The Åland Islands 🇦🇽
 - Bahrain 🇧🇭
 - Estonia 🇪🇪
 - France 🇫🇷
@@ -62,6 +62,16 @@ We have successfully transformed learning centres and educational institutions i
           "coordinates": [
             71.4116875,
             51.0887689
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Astana Hub": "Astana, Kazakhstan 🇰🇿"
+          },
+          "coordinates": [
+            71.414186,
+            51.0883672
           ]
         },
         {
