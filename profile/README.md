@@ -31,6 +31,7 @@ We have successfully transformed learning centres and educational institutions i
 - Kazakhstan 🇰🇿
 - Kenya 🇰🇪
 - Morocco 🇲🇦
+- Nigeria 🇳🇬
 - Senegal 🇸🇳
 - Türkiye 🇹🇷
 - The United Arab Emirates 🇦🇪
@@ -342,6 +343,16 @@ We have successfully transformed learning centres and educational institutions i
           "coordinates": [
             -1.908533,
             34.680022
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Learn2Earn": "Abuja, Nigeria 🇳🇬"
+          },
+          "coordinates": [
+            9.0242468,
+            7.3674659
           ]
         },
         {
