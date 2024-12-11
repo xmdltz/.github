@@ -22,6 +22,7 @@ We have successfully transformed learning centres and educational institutions i
 
 - The Åland Islands 🇦🇽
 - Bahrain 🇧🇭
+- Egypt 🇪🇬
 - Estonia 🇪🇪
 - France 🇫🇷
 - Greece 🇬🇷
@@ -363,6 +364,16 @@ We have successfully transformed learning centres and educational institutions i
           "coordinates": [
             54.359668,
             24.4905985
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "NextEra": "Cairo, Egypt 🇪🇬"
+          },
+          "coordinates": [
+            31.2719026,
+            29.9589559
           ]
         },
         {
