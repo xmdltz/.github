@@ -232,8 +232,8 @@ We have successfully transformed learning centres and educational institutions i
             "YNOV": "Chessy, France 🇫🇷"
           },
           "coordinates": [
-            2.6224512,
-            48.853489
+            2.7724751,
+            48.8611462
           ]
         },
         {
@@ -282,8 +282,8 @@ We have successfully transformed learning centres and educational institutions i
             "YNOV": "Rabat, Morocco 🇲🇦"
           },
           "coordinates": [
-            -6.8517888,
-            33.9981861
+            -6.8495471,
+            33.9982843
           ]
         },
         {
