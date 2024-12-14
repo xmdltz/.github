@@ -229,6 +229,16 @@ We have successfully transformed learning centres and educational institutions i
         {
           "type": "Point",
           "properties": {
+            "YNOV": "Chessy, France 🇫🇷"
+          },
+          "coordinates": [
+            2.6224512,
+            48.853489
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
             "YNOV": "Rennes, France 🇫🇷"
           },
           "coordinates": [
