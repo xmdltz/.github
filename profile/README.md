@@ -8,9 +8,9 @@
 
 We are excited to introduce our redesigned and open learning platform, 01 Edu System, which aims to bring the most advanced collective intelligence educational system to the world. Our innovative curriculum in software engineering and programming is designed for learners who want to develop their skills in the digital world and technology industry.
 
-Unlike traditional teaching methods, our platform is built on a collective and co-creative learning process in a professional environment. We have learned from the successes of existing projects like Epita, Epitech, Web Academy, and 42 school to create a platform that is scalable, learner-friendly, flexible, open, versatile, and technologically up-to-date.
+Unlike traditional teaching methods, our platform is built on a collective and co-creative learning process in a professional environment. We have learned from the successes of existing projects like Epita, Epitech, Web Academy, and 42 School to create a platform that is scalable, learner-friendly, flexible, open, versatile, and technologically up-to-date.
 
-Thank you for choosing 01 Edu and we look forward to helping you achieve your educational and career goals. Happy learning!
+Thank you for choosing 01 Edu, and we look forward to helping you achieve your educational and career goals. Happy learning!
 
 ### ✨ Want to contribute to our educational platform? Check out our [Public](https://github.com/01-edu/public) repository for ways to get involved.
 
@@ -69,11 +69,21 @@ We have successfully transformed learning centres and educational institutions i
         {
           "type": "Point",
           "properties": {
-            "Astana Hub": "Astana, Kazakhstan 🇰🇿"
+            "Tomorrow School - Astana Hub": "Astana, Kazakhstan 🇰🇿"
           },
           "coordinates": [
             71.414186,
             51.0883672
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Yessenov Technopark": "Aktau, Kazakhstan 🇰🇿"
+          },
+          "coordinates": [
+            51.1668148,
+            43.6809408
           ]
         },
         {
@@ -109,7 +119,7 @@ We have successfully transformed learning centres and educational institutions i
         {
           "type": "Point",
           "properties": {
-            "Adam, University of Notre Dame": "Jerusalem, Israel 🇮🇱"
+            "ADAM - University of Notre Dame": "Jerusalem, Israel 🇮🇱"
           },
           "coordinates": [
             35.205455,
@@ -254,6 +264,16 @@ We have successfully transformed learning centres and educational institutions i
           "coordinates": [
             -7.6246391,
             33.5799621
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "YNOV": "Rabat, Morocco 🇲🇦"
+          },
+          "coordinates": [
+            -6.8517888,
+            33.9981861
           ]
         },
         {
