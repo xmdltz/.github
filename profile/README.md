@@ -379,11 +379,61 @@ We have successfully transformed learning centres and educational institutions i
         {
           "type": "Point",
           "properties": {
+            "Learn2Earn": "Lagos, Nigeria 🇳🇬"
+          },
+          "coordinates": [
+            3.4341047,
+            6.4534013
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
             "Learn2Earn": "Abuja, Nigeria 🇳🇬"
           },
           "coordinates": [
-            9.0242468,
-            7.3674659
+            7.4907334,
+            9.0591241
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Learn2Earn - University of Ibadan": "Ibadan, Nigeria 🇳🇬"
+          },
+          "coordinates": [
+            3.9063285,
+            7.4411022
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Learn2Earn - Federal Polytechnic Bida": "Bida, Nigeria 🇳🇬"
+          },
+          "coordinates": [
+            6.009624,
+            9.079749
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Learn2Earn - Federal College - Pankshin": "Plateau, Nigeria 🇳🇬"
+          },
+          "coordinates": [
+            9.3938704,
+            9.3407347
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "Learn2Earn - The Oke-Ogun Polytechnic, Saki": "Shaki, Nigeria 🇳🇬"
+          },
+          "coordinates": [
+            3.4058317,
+            8.6297878
           ]
         },
         {
