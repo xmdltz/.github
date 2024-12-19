@@ -39,8 +39,6 @@ We have successfully transformed learning centres and educational institutions i
 - The United Kingdom 🇬🇧
 - The United States of America 🇺🇸
 
-```
-
 ---
 
 <sub>All of our projects and GitHub repositories adopt the 01 Edu's [Code of Conduct](https://github.com/01-edu/.github/blob/master/CODE_OF_CONDUCT.md). For more information please refer our [community health files](https://github.com/01-edu/.github).</sub>
