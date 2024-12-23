@@ -1,6 +1,6 @@
 # Welcome to 01 Edu 👋!
 
-![01-edu-system-blue](https://user-images.githubusercontent.com/14015057/211164787-102964e0-bba6-4765-b84a-60294abb45db.png)
+![01-edu-banner](https://github.com/user-attachments/assets/3272964f-1dc4-493a-974f-8f8266224ffe)
 
 > ### 🪄 A new redesigned and open learning platform to broadcast the most advanced collective intelligence educational system
 
