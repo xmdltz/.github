@@ -1,0 +1,323 @@
+[33mcommit 90147ed5bb19a666e3885c63cb95425b21b32eef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sanchez <xmdltz@icloud.com>
+Date:   Mon Apr 21 09:20:13 2025 +0200
+
+    Create greetings.yml
+
+[33mcommit 40150fd05c36a49d27ec2e7eb4069eeea5e0727f[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Wed Mar 26 00:52:49 2025 +0000
+
+    fix(code-of-conduct): update content
+
+[33mcommit 95d76b31f3bd65d24212755c262c584a43947624[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Mon Dec 23 12:52:19 2024 +0000
+
+    fix(readme): update content
+
+[33mcommit 7362f7f4a64b4906cd89c094f141b32d1e004bde[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Thu Dec 19 14:43:35 2024 +0000
+
+    fix(readme): fmt
+
+[33mcommit 9e0e52c008549a74e0559ac3da44ef9cc0f5fdca[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Thu Dec 19 14:43:05 2024 +0000
+
+    fix(doc): rm map
+
+[33mcommit 65d99edaf7fb506f748e40606677988f438607a9[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sat Dec 14 01:00:48 2024 +0000
+
+    fix(readme): update locations
+
+[33mcommit 069065af59c282b9c3bc0f81f3d657c9fc00f92e[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sat Dec 14 00:45:46 2024 +0000
+
+    fix(readme): update locations
+
+[33mcommit c37990b7ed1a01c45461f2c36349c6a7861a506e[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sat Dec 14 00:40:39 2024 +0000
+
+    fix(readme): update locations
+
+[33mcommit ee8b24aa3775046832eb2b8fb3a9f95c6cbce40f[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sat Dec 14 00:33:55 2024 +0000
+
+    fix(readme): update locations
+
+[33mcommit 98a29851eeca9abcca88ce3568f77b9a804302bd[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Wed Dec 11 11:05:33 2024 +0000
+
+    fix(readme): update locations
+
+[33mcommit 4a4be5f6203da2828ea14640e1e8981b6f565bc8[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Wed Oct 16 13:09:45 2024 +0100
+
+    fix(readme): update locations
+
+[33mcommit bd7a37cd03b4fdded56c164405700e56ef03583d[m
+Author: Harry <mailsuthan@gmail.com>
+Date:   Thu Aug 29 12:15:12 2024 +0100
+
+    chore(docs): update fmt
+
+[33mcommit f0099a863467202c8f0249385135be452643c8df[m
+Author: Harry <mailsuthan@gmail.com>
+Date:   Thu Aug 29 12:14:34 2024 +0100
+
+    fix(readme): update locations
+
+[33mcommit 1e8928137d8a066257e107129ea87d70e26668fa[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Thu Aug 29 12:04:06 2024 +0100
+
+    fix(docs): update content
+
+[33mcommit 7bdecbd06e3803961c5fc7e68692132cf6d72a12[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Thu Aug 29 12:03:34 2024 +0100
+
+    fix(docs): update content
+
+[33mcommit 09074be7c5daaec03b96ea7290a25ed8e1e69195[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Wed Aug 28 22:32:15 2024 +0100
+
+    fix(security): update content
+
+[33mcommit 5974ce060f61b71054fdb3178e5216e5e239ec57[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Thu Jul 18 11:29:37 2024 +0100
+
+    chore(readme): update content
+
+[33mcommit 1d675005debfc616444bba91a26e79f8281c1eb4[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Tue Jul 9 18:16:12 2024 +0100
+
+    chore(readme): update locations
+
+[33mcommit ee9614d1e0bc313555988d74466cc3ca8444f5e5[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Tue Jul 9 18:15:10 2024 +0100
+
+    chore(readme): update locations
+
+[33mcommit 3e58847e6d18948f48371a6d08ced85e11117c8a[m
+Author: Harry <mailsuthan@gmail.com>
+Date:   Wed Oct 11 12:54:05 2023 +0100
+
+    chore(template): issue template
+
+[33mcommit 9404d02ac8484230643bc8d016b01be7daf826b8[m
+Author: Harry <mailsuthan@gmail.com>
+Date:   Wed Oct 11 12:53:34 2023 +0100
+
+    chore(template): issue template
+
+[33mcommit a785b393308e17dc8a243cfb04eafd268f7b4962[m
+Author: Harry <mailsuthan@gmail.com>
+Date:   Wed Oct 11 12:52:20 2023 +0100
+
+    chore(md): format
+
+[33mcommit 3ed8503b090068fe368db1c7bfa010e39fbc36d4[m
+Author: Harry <mailsuthan@gmail.com>
+Date:   Wed Oct 11 12:02:42 2023 +0100
+
+    feat(template): re-implement global issue and pull request templates
+
+[33mcommit 47feb43be6842f9de5c2b926bfc01004d693d824[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Wed Sep 20 12:09:45 2023 +0100
+
+    chore(readme): update locations
+
+[33mcommit 2e7ffa7554a359dc785ebf1adf33ac307503f715[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Tue Sep 12 00:09:18 2023 +0100
+
+    feat(template): update code of conduct
+
+[33mcommit ac07d1d305c179fc0a2eef07592bb42d052abb40[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Mon Sep 11 23:57:58 2023 +0100
+
+    fix(template): update code of conduct
+
+[33mcommit 3da0de7d1b7f28bd067cd79aab8996dae924afed[m
+Author: Harry Vasanth <mailsuthan@gmail.com>
+Date:   Thu Aug 17 08:43:06 2023 +0100
+
+    fix(templates): remove global templates for issues & pull-requests
+
+[33mcommit 1d64ed7b2863144080721fafa0dc90bb1e00a2d5[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Mon May 29 14:57:54 2023 +0100
+
+    chore(readme): update locations
+
+[33mcommit 77ef94431a7f4e36e47bce2aede4188e78f67535[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Wed May 3 23:02:23 2023 +0100
+
+    chore(readme): update locations
+
+[33mcommit 1354d57907df1296d7ee2316db386dc526577917[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Wed May 3 21:58:59 2023 +0100
+
+    chore(readme): update locations
+
+[33mcommit d95ecee6b499586c1a75a3f6c681829ffd971d9a[m
+Author: zoevig <66307695+ZoeVig@users.noreply.github.com>
+Date:   Mon Apr 3 10:14:00 2023 +0100
+
+    Fixed a typo
+
+[33mcommit 375e0816349545e83245f675367b7a6b4d6bc513[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Fri Mar 24 01:36:47 2023 +0000
+
+    chore(readme): update locations
+
+[33mcommit 407c2ef219223f0ccdf1445735e25fdf9151b8b5[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Fri Mar 24 01:06:06 2023 +0000
+
+    chore(readme): update locations
+
+[33mcommit 6b135e12e31559e53334e72c51a08c81f39a6b2e[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Tue Mar 21 21:41:41 2023 +0000
+
+    chore(readme): update locations
+
+[33mcommit 9ce8c8743dc5b536105ad0fe8fa3dd5601dbeb99[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Tue Mar 21 21:35:59 2023 +0000
+
+    feat(readme): update locations
+
+[33mcommit cce64dd9fc84507087b9b8a85e3fe5c80d9c7429[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sun Feb 26 12:20:23 2023 +0000
+
+    feat(readme): update learning centres
+
+[33mcommit a7999b7b1a0ba73530eca042552d1880834b37c2[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Tue Feb 21 17:50:55 2023 +0000
+
+    feat(readme): update learning centres
+
+[33mcommit 1a1264460f8911f5e9ad89064ca3e0cd684f3e1f[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Tue Jan 31 00:16:18 2023 +0000
+
+    fix(code-of-conduct): update to cc v2.1
+
+[33mcommit 2c657d8783b5ce97c9356ec67dc789340e934c18[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sun Jan 8 20:15:48 2023 +0000
+
+    fix(pull_request_template): update mermaid url
+
+[33mcommit fb137ddf0c8e5898917bb559e5461e204a36a4ed[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sat Jan 7 23:04:05 2023 +0000
+
+    feat(profile): update content
+
+[33mcommit 0e388f0fa55d34b4ecc6b6735fc51dd227519a87[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sat Jan 7 22:51:27 2023 +0000
+
+    feat(profile): add locations
+
+[33mcommit 603ec5fa62e6bee26713a3ccf5110b1e40827b23[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sat Jan 7 18:15:51 2023 +0000
+
+    feat(profile): update banner image
+    
+    Replacing:
+    ![image](https://user-images.githubusercontent.com/14015057/210378413-b2afecd9-0581-4734-a539-330480bacc08.png)
+    
+    With:
+    ![01-edu-system-blue](https://user-images.githubusercontent.com/14015057/211164787-102964e0-bba6-4765-b84a-60294abb45db.png)
+
+[33mcommit 7df1ea050e113ef3f068091d28a09ca4e66f8507[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sat Jan 7 17:28:45 2023 +0000
+
+    feat(profile): add footnote
+
+[33mcommit 07948596d5cf66931f34e3c5cbcf56a935b4b05f[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sat Jan 7 17:25:12 2023 +0000
+
+     fix(code-of-conduct): update title
+
+[33mcommit c0ea53095899221c995d15641b4b84606b2ce995[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sat Jan 7 17:12:08 2023 +0000
+
+    fix(code-of-conduct): update contact info
+
+[33mcommit 3dc6347587aeb6d3cb756861eace2dbc35172094[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sat Jan 7 17:10:22 2023 +0000
+
+    feat(security): add context
+
+[33mcommit 574137fe7d686908044d8262e56bedc3f4a6effb[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sat Jan 7 16:38:35 2023 +0000
+
+    fix(code-of-conduct): update misc content
+
+[33mcommit 5c033fbecc7eedc1d2fdbd966281192da648a8f3[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sat Jan 7 16:35:58 2023 +0000
+
+    feat(code-of-conduct): add content
+
+[33mcommit bbaf4bb5351e1ac5b846929e3f163e433f01eda2[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sat Jan 7 15:21:18 2023 +0000
+
+    feat(templates): pull request
+
+[33mcommit c96aeb9c1a30661b6b26694c9c9643dc137c29a9[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sat Jan 7 14:59:58 2023 +0000
+
+    feat(readme): add context
+
+[33mcommit ef5449276da3f463d07ca63c9ac572800fec50e7[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Sat Jan 7 14:52:24 2023 +0000
+
+    feat(templates): issues
+
+[33mcommit 97a3ed508298bbc3a5463b052f886bcd932d2b5f[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Tue Jan 3 14:37:52 2023 +0000
+
+    feat(profile): add banner
+
+[33mcommit 052314442ea0c8a07712da339830706c34b6ee76[m
+Author: Harry <14015057+HarryVasanth@users.noreply.github.com>
+Date:   Mon Jan 2 18:25:29 2023 +0000
+
+    feat(profile): Initialize README
