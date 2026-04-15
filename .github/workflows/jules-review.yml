@@ -1,14 +1,25 @@
-name: Jules Code Review
-on: [push]
+name: Jules AI Reviewer
+on:
+  pull_request:
+    types: [opened, synchronize]
 
 jobs:
   review:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
     steps:
-      - name: Checkout code
+      - name: Checkout kod
         uses: actions/checkout@v4
 
-      - name: Read Jules Instructions
-        run: |
-          cat agents.md
-          echo "Jules is now monitoring your push!"
+      - name: Jules AI Review
+        uses: anc95/ChatGPT-CodeReview@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          LANGUAGE: Swedish
+          PROMPT: |
+            Du är Jules, Sanchez personliga assistent. 
+            Läs instruktionerna i agents.md och granska koden utifrån dem.
+            Var uppmuntrande och hjälp Sanchez att lära sig mer om CI/CD.
