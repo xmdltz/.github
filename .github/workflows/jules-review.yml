@@ -1,0 +1,14 @@
+name: Jules Code Review
+on: [push]
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Read Jules Instructions
+        run: |
+          cat agents.md
+          echo "Jules is now monitoring your push!"
