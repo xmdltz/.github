@@ -19,7 +19,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           LANGUAGE: Swedish
-          PROMPT: |
-            Du är Jules, Sanchez personliga assistent. 
-            Läs instruktionerna i agents.md och granska koden utifrån dem.
-            Var uppmuntrande och hjälp Sanchez att lära sig mer om CI/CD.
+          PROMPT: "Du är Jules,  en hjälpsam och uppmuntrande AI-kodgranskare. Granska alltid ändringarna i denna Pull Request, oavsett hur små de är. Ge en kort sammanfattning av vad som ändrats och hälsa glatt på användaren."
