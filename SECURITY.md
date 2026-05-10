@@ -1,8 +1,8 @@
-# Security
+# 🛡️ Security
 
 01 Edu takes the security of our software products and services seriously, which includes all source code repositories managed through our [GitHub organization](https://github.com/01-edu).
 
-## Reporting Security Issues
+## 🚨 Reporting Security Issues
 
 If you believe you have found a security vulnerability in any 01 Edu owned repository, please report it to us through coordinated disclosure.
 
@@ -10,7 +10,7 @@ If you believe you have found a security vulnerability in any 01 Edu owned repos
 
 Instead, please send an email to `security [ at ] 01talent [ dot ] com`.
 
-### General Guidelines
+### 📝 General Guidelines
 
 - **No Vague Reports**: Submissions such as "I found a vulnerability" without any details will be treated as spam and will not be accepted.
 - **In-Depth Understanding Required**: Reports must reflect a clear understanding of the codebase and provide specific details about the vulnerability, including the affected components and potential impacts.
@@ -27,9 +27,10 @@ Please include as much of the information listed below as you can to help us bet
 
 This information will help us triage your report more quickly.
 
-**Non-compliant submissions will be rejected, and repeat violators may be banned!** Our goal is to foster a constructive reporting culture where quality submissions promote not only better security for all users but also value our time spent investigating.
+> [!WARNING]
+> **Non-compliant submissions will be rejected, and repeat violators may be banned!** Our goal is to foster a constructive reporting culture where quality submissions promote not only better security for all users but also value our time spent investigating.
 
-## Policy
+## 📜 Policy
 
 To encourage research and coordinated disclosure of security vulnerabilities, we will not pursue civil or criminal action, or send notice to law enforcement for accidental or good faith violations of this policy. We consider security research and vulnerability disclosure activities conducted consistent with this policy to be “authorized” conduct under the Computer Fraud and Abuse Act, the DMCA, and other applicable computer use laws such as Cal. Penal Code 502(c). We waive any potential DMCA claim against you for circumventing the technological measures we have used to protect the applications in this policy's scope.
 

@@ -1,12 +1,12 @@
-# Code of Conduct
+# 📜 Code of Conduct
 
 At **01 Edu**, we are committed to providing a welcoming and inclusive community for all contributors. We believe that a diverse and respectful environment fosters creativity and innovation. By participating in this community, you agree to abide by the following Code of Conduct.
 
-# Our Pledge
+## 🤝 Our Pledge
 
 We pledge to make participation in the **01 Edu** community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-# Our Standards
+## 🛡️ Our Standards
 
 Examples of behavior that contributes to creating a positive environment include:
 
@@ -24,21 +24,21 @@ Examples of unacceptable behavior by participants include:
 - Public or private harassment, including deliberate misgendering or personal attacks.
 - Any behavior that could negatively affect the community or its members.
 
-# Our Responsibilities
+## 📋 Our Responsibilities
 
 Community maintainers are responsible for clarifying and enforcing the Code of Conduct. They have the right and obligation to remove, edit, or reject any comments, commits, code, issues, or pull requests that violate this Code of Conduct. They may also ban contributors from the community temporarily or permanently if the behavior continues.
 
-# Reporting Violations
+## 📧 Reporting Violations
 
 If you experience or witness any violation of this Code of Conduct, please report it as soon as possible by contacting us at:
 `conduct [ at ] 01talent [ dot ] com`
 
 We will review your report and take appropriate action. All reports will be kept confidential.
 
-# Enforcement
+## ⚖️ Enforcement
 
 Anyone who violates this Code of Conduct may face temporary or permanent banishment from the community, depending on the severity of the violation. We strive to provide fair and timely responses to any issues that arise and maintain an open and supportive environment.
 
-# Acknowledgements
+## 💡 Acknowledgements
 
 This Code of Conduct was adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1.
