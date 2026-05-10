@@ -9,8 +9,13 @@ jobs:
       issues: write
       pull-requests: write
     steps:
-    - uses: actions/first-interaction@v1
-      with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: "Welcome to the 01 Edu community! 🎉 Thank you for opening your first issue. Our collective intelligence grows with every contribution. A maintainer will look into this soon!"
-        pr-message: "Fantastic! Thank you for your first pull request to 01 Edu. 🚀 We're excited to see your contribution to our open learning platform. Our team will review your changes shortly. Happy coding!"
+      - uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: |
+            Welcome to the 01 Edu community! 🎉 Thank you for opening your first issue.
+            Our collective intelligence grows with every contribution. A maintainer will look into this soon!
+          pr-message: |
+            Fantastic! Thank you for your first pull request to 01 Edu. 🚀
+            We're excited to see your contribution to our open learning platform.
+            Our team will review your changes shortly. Happy coding!
