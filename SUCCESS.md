@@ -1,0 +1,1 @@
+Automatiseringen fungerar! Scriptet väntade på att Jules skulle bli klar och pushade sedan ändringen helt själv.
