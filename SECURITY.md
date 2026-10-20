@@ -1,8 +1,14 @@
-# Security
+# Security Policy 🛡
+
+![01-edu-banner](https://github.com/user-attachments/assets/3272964f-1dc4-493a-974f-8f8266224ffe)
+
+> ### 🔒 01 Edu tar säkerheten på högsta allvar.
+
+---
 
 01 Edu takes the security of our software products and services seriously, which includes all source code repositories managed through our [GitHub organization](https://github.com/01-edu).
 
-## Reporting Security Issues
+## 🚀 Reporting Security Issues
 
 If you believe you have found a security vulnerability in any 01 Edu owned repository, please report it to us through coordinated disclosure.
 
@@ -10,7 +16,7 @@ If you believe you have found a security vulnerability in any 01 Edu owned repos
 
 Instead, please send an email to `security [ at ] 01talent [ dot ] com`.
 
-### General Guidelines
+### 📋 General Guidelines
 
 - **No Vague Reports**: Submissions such as "I found a vulnerability" without any details will be treated as spam and will not be accepted.
 - **In-Depth Understanding Required**: Reports must reflect a clear understanding of the codebase and provide specific details about the vulnerability, including the affected components and potential impacts.
@@ -29,7 +35,7 @@ This information will help us triage your report more quickly.
 
 **Non-compliant submissions will be rejected, and repeat violators may be banned!** Our goal is to foster a constructive reporting culture where quality submissions promote not only better security for all users but also value our time spent investigating.
 
-## Policy
+## ⚖ Policy
 
 To encourage research and coordinated disclosure of security vulnerabilities, we will not pursue civil or criminal action, or send notice to law enforcement for accidental or good faith violations of this policy. We consider security research and vulnerability disclosure activities conducted consistent with this policy to be “authorized” conduct under the Computer Fraud and Abuse Act, the DMCA, and other applicable computer use laws such as Cal. Penal Code 502(c). We waive any potential DMCA claim against you for circumventing the technological measures we have used to protect the applications in this policy's scope.
 
@@ -38,3 +44,7 @@ Please understand that if your security research involves the networks, systems,
 You are expected, as always, to comply with all laws applicable to you, and not to disrupt or compromise any data beyond what this bug bounty program permits.
 
 Please contact us before engaging in conduct that may be inconsistent with or unaddressed by this policy. We reserve the sole right to make the determination of whether a violation of this policy is accidental or in good faith, and proactive contact to us before engaging in any action is a significant factor in that decision. If in doubt, ask us first!
+
+---
+
+<sub>Tack för att du hjälper oss att hålla 01 Edu säkert.</sub>

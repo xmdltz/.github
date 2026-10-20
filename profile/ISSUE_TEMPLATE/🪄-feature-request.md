@@ -1,9 +1,17 @@
 ---
-name: "\U0001FA84 Feature request"
+name: "🪄 Feature request"
 about: Suggest an idea for this project
 title: "[FEATURE]: "
-labels: "\U0001FA84 feature"
+labels: "🪄 feature"
 assignees: ""
+---
+
+# 🪄 Feature Request
+
+![01-edu-banner](https://github.com/user-attachments/assets/3272964f-1dc4-493a-974f-8f8266224ffe)
+
+> ### ✨ Suggest an idea for this project!
+
 ---
 
 **Is your feature request related to a problem? Please describe.**
@@ -17,3 +25,7 @@ A clear and concise description of any alternative solutions or features you've 
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
+
+---
+
+<sub>Tack för dina idéer! 🚀</sub>
