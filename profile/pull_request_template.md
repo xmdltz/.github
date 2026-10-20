@@ -1,13 +1,19 @@
-> Before starting, please choose the relevant pull request **Labels**, **Reviewers**, and **Assignees**
+![01-edu-banner](https://github.com/user-attachments/assets/3272964f-1dc4-493a-974f-8f8266224ffe)
 
-### Why?
+# 🚀 Pull Request Mall
 
-> Clearly state the reason for this change. What problem is it solving or feature is it adding?
+> Innan du börjar, välj relevanta **Labels**, **Reviewers**, och **Assignees**.
 
-### Solution Overview
+---
 
-> Provide an overview of the solution implemented in this pull request. This should be a high level overview without getting into technical details. If applicable, include screenshots of UI or use GitHub compliant [`mermaid`](https://mermaid.live/) graphs to visually represent the solution.
+### ❓ Varför?
+> Beskriv tydligt anledningen till denna ändring. Vilket problem löser den eller vilken funktion lägger den till?
 
-### Implementation Details
+### 🗺️ Översikt av lösningen
+> Ge en översikt av hur lösningen är implementerad. Använd gärna GitHub-kompatibla [`mermaid`](https://mermaid.live/) grafer eller skärmbilder för visualisering.
 
-> Explain the details of the implementation and the reasoning behind it. What alternative approaches were considered and why was this approach chosen?
+### 🛠️ Implementationsdetaljer
+> Förklara detaljerna i din implementation och varför du valde just detta tillvägagångssätt.
+
+---
+<sub>Tack för ditt bidrag till 01 Edu! 🍎</sub>

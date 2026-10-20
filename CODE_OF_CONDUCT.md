@@ -1,44 +1,34 @@
-# Code of Conduct
+![01-edu-banner](https://github.com/user-attachments/assets/3272964f-1dc4-493a-974f-8f8266224ffe)
 
-At **01 Edu**, we are committed to providing a welcoming and inclusive community for all contributors. We believe that a diverse and respectful environment fosters creativity and innovation. By participating in this community, you agree to abide by the following Code of Conduct.
+# 🤝 Uppförandekod
 
-# Our Pledge
+> Hos **01 Edu** är vi fast beslutna att tillhandahålla en välkomnande och inkluderande miljö för alla.
 
-We pledge to make participation in the **01 Edu** community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+---
 
-# Our Standards
+### 🌟 Vårt löfte
+Vi lovar att göra deltagande i **01 Edu**-communityn till en trakasserifri upplevelse för alla, oavsett bakgrund eller identitet.
 
-Examples of behavior that contributes to creating a positive environment include:
+### 📜 Våra standarder
+Exempel på beteende som bidrar till en positiv miljö:
+- Vara respektfull och visa hänsyn.
+- Vara välkomnande mot nykomlingar.
+- Lyssna på feedback och svara konstruktivt.
+- Använda ett inkluderande språk.
 
-- Be respectful and considerate of others' perspectives and experiences.
-- Be welcoming to newcomers and provide assistance when needed.
-- Actively listen to feedback and respond constructively.
-- Use inclusive and accessible language in communication.
-- Foster a collaborative environment where everyone’s contributions are valued.
+Exempel på oacceptabelt beteende:
+- Trakasserier, hot eller diskriminering.
+- Stötande kommentarer kopplade till personliga egenskaper.
+- Trollande eller störande kommentarer.
 
-Examples of unacceptable behavior by participants include:
+---
 
-- Harassment, intimidation, or discriminatory behavior.
-- Offensive or inappropriate comments, including those related to gender, race, sexual orientation, religion, or disability.
-- Trolling, insulting, or disruptive comments in issues or pull requests.
-- Public or private harassment, including deliberate misgendering or personal attacks.
-- Any behavior that could negatively affect the community or its members.
+### ⚖️ Vårt ansvar
+Community-moderatorer ansvarar för att klargöra och upprätthålla denna uppförandekod och har rätt att ta bort innehåll som bryter mot reglerna.
 
-# Our Responsibilities
-
-Community maintainers are responsible for clarifying and enforcing the Code of Conduct. They have the right and obligation to remove, edit, or reject any comments, commits, code, issues, or pull requests that violate this Code of Conduct. They may also ban contributors from the community temporarily or permanently if the behavior continues.
-
-# Reporting Violations
-
-If you experience or witness any violation of this Code of Conduct, please report it as soon as possible by contacting us at:
+### 🚩 Rapportering
+Om du upplever eller bevittnar överträdelser, vänligen kontakta oss på:
 `conduct [ at ] 01talent [ dot ] com`
 
-We will review your report and take appropriate action. All reports will be kept confidential.
-
-# Enforcement
-
-Anyone who violates this Code of Conduct may face temporary or permanent banishment from the community, depending on the severity of the violation. We strive to provide fair and timely responses to any issues that arise and maintain an open and supportive environment.
-
-# Acknowledgements
-
-This Code of Conduct was adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1.
+---
+<sub>Anpassad från [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1.</sub>

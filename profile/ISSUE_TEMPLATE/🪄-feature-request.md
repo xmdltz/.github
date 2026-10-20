@@ -1,19 +1,21 @@
 ---
-name: "\U0001FA84 Feature request"
-about: Suggest an idea for this project
+name: "🪄 Funktionsförfrågan"
+about: Föreslå en idé för detta projekt
 title: "[FEATURE]: "
-labels: "\U0001FA84 feature"
+labels: "🪄 feature"
 assignees: ""
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+![01-edu-banner](https://github.com/user-attachments/assets/3272964f-1dc4-493a-974f-8f8266224ffe)
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+### 💡 Beskriv din idé
+En tydlig och kortfattad beskrivning av vad du vill ska hända.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+### ❓ Vilket problem löser detta?
+Beskriv problemet du upplever.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### 🛠️ Föreslagen lösning
+Hur tänker du att det ska fungera?
+
+---
+<sub>Föreslaget via Sanchez Projekt Standardmall.</sub>
